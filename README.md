@@ -1,5 +1,7 @@
 # Markdown Features Showcase
 
+This Markdown document demonstrates various features and formatting options available in Markdown.
+
 ## Headings
 
 # Heading 1
@@ -9,11 +11,11 @@
 ##### Heading 5
 ###### Heading 6
 
-## Styling Text
+## Emphasis
 
 *Italic text* or _Italic text_
 **Bold text** or __Bold text__
-~~Strikethrough text~~
+**_Bold and italic text_**
 
 ## Lists
 
@@ -21,6 +23,8 @@
 
 - Item 1
 - Item 2
+  - Nested Item 1
+  - Nested Item 2
 - Item 3
 
 ### Ordered List
@@ -43,42 +47,40 @@ Inline code: `code`
 
 Code block:
 
-```python
+\```python
 def hello():
     print("Hello, World!")
+\```
 
-Blockquotes
+## Blockquotes
 
-    This is a blockquote.
+> This is a blockquote.
+> - Author
 
-        Author
+## Tables
 
-Tables
-Name	Age
-John	25
-Sarah	30
-Horizontal Rule
-Task Lists
+| Name  | Age |
+|-------|-----|
+| John  | 25  |
+| Sarah | 30  |
 
- Task 1
- Task 2
+## Horizontal Rule
 
-     Task 3
+---
 
-Emojis
+## Task Lists
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+## Emojis
 
 :smile: :rocket: :heart:
-Footnotes
 
-Here is a footnote reference1 and another2.
+## Footnotes
 
-css
+Here is a footnote reference[^1] and another[^2].
 
-
-Feel free to use this Markdown document as a reference to showcase different formatting options and features available in Markdown.
-
-Footnotes
-
-    Footnote 1 details. ↩
-
-    Footnote 2 details. ↩
+[^1]: Footnote 1 details.
+[^2]: Footnote 2 details.
