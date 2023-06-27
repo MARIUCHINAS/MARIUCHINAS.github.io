@@ -19,6 +19,9 @@ window.addEventListener("DOMContentLoaded", function() {
     
     // Function to move the ball back and forth
     function moveBall() {
+      console.log("I am not sure why you used inspect element 😐");
+      console.log("Like bro the source code is public on github");
+      console.log("If you were planning to use console you better hold off");
       // Update the position
       position += speed * direction;
       
