@@ -10,12 +10,11 @@ Game developer and programmer. Working with Godot, Java, C#, and Python.
 
 ### Games
 - [Lichs-Meowstle](https://github.com/MARIUCHINAS/Lichs-Meowstle) - GMTK Game Jam
-- [BoomBoom](https://github.com/MARIUCHINAS/BoomBoom)
-- [FloppyDude](https://github.com/MARIUCHINAS/FloppyDude)
+- [Turrets-Bluff](https://github.com/MARIUCHINAS/Turrets-Bluff)
 
 ### Tools
 - [STRAM](https://github.com/MARIUCHINAS/STRAM) - Steam Workshop Downloader
-- [ServerWebsite-Pinger](https://github.com/MARIUCHINAS/ServerWebsite-Pinger)
-- [Calculator](https://github.com/MARIUCHINAS/Calculator)
+- [CSAC](https://github.com/MARIUCHINAS/CSAC) - Copper Stairs Auto Clicker
+- [Snuffer](https://github.com/MARIUCHINAS/Snuffer)
 
 More on [GitHub](https://github.com/MARIUCHINAS).
