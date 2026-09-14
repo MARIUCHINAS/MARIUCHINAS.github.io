@@ -15,6 +15,6 @@ Game developer and programmer. Working with Godot, Java, C#, and Python.
 ### Tools
 - [STRAM](https://github.com/MARIUCHINAS/STRAM) - Steam Workshop Downloader
 - [CSAC](https://github.com/MARIUCHINAS/CSAC) - Copper Stairs Auto Clicker
-- [Snuffer](https://github.com/MARIUCHINAS/Snuffer)
+- [Snuffer](https://github.com/MARIUCHINAS/Snuffer) - Process inspector 
 
 More on [GitHub](https://github.com/MARIUCHINAS).
