@@ -1,6 +1,6 @@
 title: MARIUCHINAS
 description: Game developer and programmer
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 markdown: kramdown
 
 exclude:
